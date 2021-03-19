@@ -14,6 +14,8 @@ acts as a homepage of this repo
 ###Connect me via:
 [My facebook](https://fb.com/hoang.kyo23)  
 [My email](mailto: hoangnlh23@gmail.com)
+![GitHub Logo](https://i.imgur.com/QLrtRge.gifv)
+
 
 © 2021 hoang.kyo
 
