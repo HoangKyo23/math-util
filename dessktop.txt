@@ -1,0 +1,20 @@
+cau lenh quen lam hang ngay khi kho da co roi, da duoc dua len sever roi
+- vao cua so lenh , chuyen den thu muc chua code muon day len sever.
+dung lenh cd theo tung muc thu muc / directory/folder
+- thoai mai sua code, them bot tap tin trong kho
+- sau cung go 3 lenh huyen thoai
+	git add*  hoac git add . deu duoc
+	git commit -m "ghi-ro-va-to-tat-ban-da-sua-gi"
+	git push
+khi ko duoc chia se chung cho moi nguoi cung sua- project co nhieu nguoi cung lam
+ta phai invite moi nguoi vao choi chung trong kho, co nut nhan tren sever de invite(giong share gg doc)
+- coi chung bi CONFLICT khi nhieu nguoi cung thao tac tren 1 tai nguyen, 1 tap tin
+-khi bi conflict
+khi chung ta upload tu local len tap tin ma truoc do sever da co ai khac sua va commit roi
+-local chua ban outdate/cu , ma lai co them phan moi cua ta.Github boi roi.day phan cua ta lensever de luon phan moi cua nta hay merge ca hai
+-hien tuong nay goi la confict trong viec giu kq cua ai
+-xu li the nao ta nen ngo xem sever khac ta cai gi ngoai phan them moi. ta se tu quyet dinh
+-go leng git pull se keo sever ve tron voi cai cua ta
+va quyet dinh merge ra sao.dau hieu cua ta va sever dc danh dau qua <<<<<<<<<<<<<<
+-nho tat file o local truoc khi git pull
+sau do go lai 3 lenh

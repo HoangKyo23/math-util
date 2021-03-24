@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package math.util;
+package com.hoangnlh.math.util;
+
+import com.hoangnlh.util.MathUtility;
 
 /**
  *
@@ -18,6 +20,11 @@ public class MathUtil {
         // TODO code application logic here
         System.out.println("xin chao");
         System.out.println("alo alo github");
+        int n=5;
+        long expected =120;
+        long actual = MathUtility.getFactorial(n) ;
+        
+        System.out.println("5! expected:  " + expected + "  actual =   "  +actual);
     }
     
 }
