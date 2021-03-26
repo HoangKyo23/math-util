@@ -1,6 +1,6 @@
 ## Welcome to Math utility repository.
 this repo offers various math methods used as a helper for your project.
-
+[![.github/workflows/mathutil-ci-actions.yml](https://github.com/HoangKyo23/math-util/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/HoangKyo23/math-util/actions/workflows/mathutil-ci-actions.yml)
 
 ### *_you will find in this repo the following stuff:_*
 
